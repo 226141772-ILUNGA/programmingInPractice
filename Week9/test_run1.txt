@@ -1,0 +1,52 @@
+Welcome to the Municipal Financial Management System
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Enter amount: VAT: 150.00
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Basic salary: Housing allowance: Transport allowance: Gross salary: 7300.00
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Enter revenue: Enter expenses: Balance: 3000.00
+SURPLUS
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Enter employee ID: Employee 103 found at position 2.
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Goodbye.

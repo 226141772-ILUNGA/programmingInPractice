@@ -1,0 +1,42 @@
+Welcome to the Municipal Financial Management System
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Enter revenue: Enter expenses: Balance: -3000.00
+DEFICIT
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Invalid choice.
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Enter employee ID: Employee 999 not found.
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Calculate VAT
+2. Calculate Salary
+3. Calculate Budget
+4. Search Employee
+5. Exit
+Enter choice: Goodbye.

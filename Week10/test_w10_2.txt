@@ -1,0 +1,136 @@
+Welcome to the Municipal Financial Management System
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: 1 employee(s) loaded.
+1 supplier(s) loaded.
+1 asset(s) loaded.
+1 budget(s) loaded.
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: ID: 1001 | Name: Maria | Salary: 18500.50
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: ID: 201 | Name: Shoprite | Owed: 4500.00
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: ID: 301 | Name: Camion | Value: 85000.00
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: ID: 401 | Department: Finance | Amount: 120000.00
+
+==================================
+ MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1.  Calculate VAT
+2.  Calculate Salary
+3.  Calculate Budget
+4.  Search Employee
+5.  Add Employee
+6.  List Employees
+7.  Add Supplier
+8.  List Suppliers
+9.  Add Asset
+10. List Assets
+11. Add Budget Record
+12. List Budget Records
+13. Save Data
+14. Load Data
+15. Save Employees (binary)
+16. Load Employees (binary)
+0.  Exit
+Enter choice: Goodbye.
